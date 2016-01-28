@@ -16,6 +16,7 @@ cask iterm2
 cask macvim
 cask poedit
 cask seil
+cask sketch-toolbox
 cask sketch
 cask skype
 cask slack
