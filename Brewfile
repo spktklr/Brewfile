@@ -1,15 +1,17 @@
+
 # tap repositories and their packages
 
 tap caskroom/cask
-brew brew-cask
 cask adobe-creative-cloud
 cask alfred
 cask bettertouchtool
+cask clipmenu
 cask crashplan
 cask day-o
 cask dropbox
 cask firefox
 cask google-chrome
+cask istat-menus
 cask iterm2
 cask macvim
 cask poedit
@@ -23,8 +25,6 @@ cask vagrant
 cask virtualbox
 cask vlc
 cask vox
-cask clipmenu
-cask istat-menus
 
 tap caskroom/fonts
 cask font-clear-sans
