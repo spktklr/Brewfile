@@ -72,6 +72,7 @@ brew readline
 brew ruby
 brew sqlite
 brew the_silver_searcher
+brew tmux
 brew unixodbc
 brew vim
 brew xz
