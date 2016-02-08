@@ -13,6 +13,7 @@ cask firefox
 cask google-chrome
 cask istat-menus
 cask iterm2
+cask keka
 cask macvim
 cask poedit
 cask seil
@@ -59,6 +60,7 @@ brew gettext
 brew git
 brew icu4c
 brew jpeg
+brew libevent
 brew libpng
 brew libxml2
 brew libyaml
@@ -69,6 +71,7 @@ brew openssl
 brew pcre
 brew python
 brew readline
+brew reattach-to-user-namespace
 brew ruby
 brew sqlite
 brew the_silver_searcher
