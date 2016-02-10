@@ -81,6 +81,9 @@ brew vim
 brew xz
 
 # App Store applications
-appstore Irvue
-appstore PushPal
+appstore GarageBand
+appstore iMovie
+appstore Keynote
+appstore Numbers
+appstore Pages
 appstore Xcode
