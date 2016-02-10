@@ -17,7 +17,6 @@ cask macvim
 cask poedit
 cask seil
 cask sketch-toolbox
-cask sketch
 cask skype
 cask slack
 cask spectacle
