@@ -4,7 +4,6 @@
 tap caskroom/cask
 cask adobe-creative-cloud
 cask alfred
-cask bettertouchtool
 cask clipmenu
 cask crashplan
 cask day-o
@@ -22,11 +21,13 @@ cask sketch
 cask skype
 cask slack
 cask spectacle
+cask teamviewer
 cask vagrant-manager
 cask vagrant
 cask virtualbox
 cask vlc
 cask vox
+cask wordpresscom
 
 tap caskroom/fonts
 cask font-clear-sans
