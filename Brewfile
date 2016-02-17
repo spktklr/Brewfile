@@ -10,13 +10,15 @@ cask day-o
 cask dropbox
 cask firefox
 cask google-chrome
-cask istat-menus
+cask google-drive
 cask iterm2
 cask keka
+cask lastpass
 cask macvim
 cask poedit
 cask seil
 cask sketch-toolbox
+cask sketch
 cask skype
 cask slack
 cask spectacle
@@ -74,6 +76,7 @@ brew readline
 brew reattach-to-user-namespace
 brew ruby
 brew sqlite
+brew ssh-copy-id
 brew the_silver_searcher
 brew tmux
 brew unixodbc
