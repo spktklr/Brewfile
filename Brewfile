@@ -4,11 +4,14 @@
 tap caskroom/cask
 cask adobe-creative-cloud
 cask alfred
+cask basecamp
 cask clipmenu
 cask crashplan
 cask day-o
 cask dropbox
+cask evernote
 cask firefox
+cask ginbox
 cask google-chrome
 cask google-drive
 cask iterm2
@@ -19,9 +22,11 @@ cask poedit
 cask seil
 cask sketch-toolbox
 cask sketch
+cask skyfonts
 cask skype
 cask slack
 cask spectacle
+cask spotify
 cask teamviewer
 cask vagrant-manager
 cask vagrant
@@ -42,9 +47,13 @@ brew grep
 
 tap homebrew/php
 brew php56
+brew wp-cli
 
 tap rcmdnk/file
 brew brew-file
+
+tap argon/mas
+brew mas
 
 # Other Homebrew packages
 brew ack
@@ -55,6 +64,8 @@ brew cmake
 brew composer
 brew coreutils
 brew cscope
+brew ctags
+brew ctags-exuberant
 brew findutils
 brew freetype
 brew gdbm
