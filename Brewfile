@@ -1,6 +1,9 @@
 
 # tap repositories and their packages
 
+tap argon/mas
+brew mas
+
 tap caskroom/cask
 cask adobe-creative-cloud
 cask alfred
@@ -52,9 +55,6 @@ brew wp-cli
 tap rcmdnk/file
 brew brew-file
 
-tap argon/mas
-brew mas
-
 # Other Homebrew packages
 brew ack
 brew ansible
@@ -65,7 +65,6 @@ brew composer
 brew coreutils
 brew cscope
 brew ctags
-brew ctags-exuberant
 brew findutils
 brew freetype
 brew gdbm
@@ -95,9 +94,8 @@ brew vim
 brew xz
 
 # App Store applications
-appstore GarageBand
-appstore iMovie
-appstore Keynote
-appstore Numbers
-appstore Pages
-appstore Xcode
+appstore 682658836 GarageBand
+appstore 409183694 Keynote
+appstore 409203825 Numbers
+appstore 409201541 Pages
+appstore 408981434 iMovie
