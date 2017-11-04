@@ -22,7 +22,6 @@ cask steam
 cask skyfonts
 cask sketchup
 cask magicprefs
-cask teamviewer
 cask soundflower
 cask seil
 cask ccleaner
@@ -38,9 +37,6 @@ cask soulseek
 cask macdown
 cask qbittorrent
 cask poedit
-cask spillo
-cask evernote
-cask typinator
 cask android-sdk
 cask sketch-toolbox
 cask postman
@@ -49,17 +45,14 @@ cask dropbox
 cask deluge
 cask paragon-ntfs
 cask fliqlo
-cask lastpass
 cask iconjar
 cask atext
 cask vagrant
 cask adobe-creative-cloud
-cask mou
 cask duet
 cask sequel-pro
 cask cyberduck
 cask wireshark
-cask vagrant-manager
 cask firefox
 cask vox
 cask google-chrome
